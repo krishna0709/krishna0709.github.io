@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Graduate Research Assistant"
   location         : "Location"
-  employer         :
+  employer         : "The University of Texas at San Antonio"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=plzpph0AAAAJ&hl=en"
+  email            : "krishna.roy@utsa.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
