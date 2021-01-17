@@ -40,13 +40,17 @@ Research Experience
 * Studied and surveyed ultrasound imaging systems in biomedical imaging
 * Developed ultrasound strain imaging system using dynamic programming and information theory for
 	nonlinear ultrasound RF data and published two conference papers
-  
+
+&nbsp;
+
 Skills and Expertise
 ======
 * **Programming Languages:** Python, C, C++, CUDA
 * **Search & Analytics Tools:** ELK stack (Elasticsearch, Logstash, Kibana)
 * **Application Software & Packages:** MATLAB, TensorFlow, PyTorch, Wireshark, WLS,
 * **Language:** English (Fluent), Bangla (Native Speaker)
+
+&nbsp;
 
 Projects Accomplished
 ======
@@ -75,18 +79,16 @@ cloud using OpenStack and interfaced with android application in Cloud Computing
 * Designed and implemented Line follower robot with mash solving ability
 * Developed FPGA based 64-bit magnitude comparator with BIST facility
 
+&nbsp;
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-[//]: # Talks
-[//]: # ======
-[//]: #   <ul>{% for post in site.talks %}
-[//]: #     {% include archive-single-talk-cv.html %}
-[//]: #   {% endfor %}</ul>
-  
+&nbsp;
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
