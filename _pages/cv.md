@@ -18,9 +18,9 @@ Research Experience
 ======
 *Graduate Research Assistant
 
-Employer: IoT Security Lab, The University of Texas at San Antonio
+*Employer: IoT Security Lab, The University of Texas at San Antonio
 
-Supervisor: Dr. Guenevere (Qian) Chen, Assistant Professor, Electrical and Computer Engineering
+*Supervisor: Dr. Guenevere (Qian) Chen, Assistant Professor, Electrical and Computer Engineering
 	* Researched on host behavior-based intrusion detection systems
 	* Designed and developed deep learning experiments for ransomware detection and classification
 	* Collected windows audit and application logs under normal scenario for 90 days for host behavior modeling
