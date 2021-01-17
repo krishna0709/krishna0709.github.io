@@ -33,7 +33,6 @@ Research Experience
 * Currently working on LogGNN: a graph neural network-based log provenance analysis for threat hunting
 
 &nbsp;
-
 <ins>**Undergraduate Research**</ins>
 
 **Employer:** Khulna University of Engineering and Technology
@@ -43,10 +42,10 @@ Research Experience
   
 Skills
 ======
-* Programming Languages: Python, C, C++, CUDA
-* Search & Analytics Tools: ELK stack (Elasticsearch, Logstash, Kibana)
-* Application Software & Packages: MATLAB, TensorFlow, PyTorch, Wireshark, WLS,
-* Language: English (Fluent), Bangla (Native Speaker)
+* **Programming Languages:** Python, C, C++, CUDA
+* **Search & Analytics Tools:** ELK stack (Elasticsearch, Logstash, Kibana)
+* **Application Software & Packages:** MATLAB, TensorFlow, PyTorch, Wireshark, WLS,
+* **Language:** English (Fluent), Bangla (Native Speaker)
 
 Publications
 ======
