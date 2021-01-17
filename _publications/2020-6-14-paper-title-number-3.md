@@ -1,4 +1,3 @@
----
 title: "DeepRan: Attention-based BiLSTM and CRF for Ransomware Early Detection and Classification"
 collection: publications
 permalink: /publication/2020-6-14-paper-title-number-3
