@@ -33,6 +33,7 @@ Research Experience
 * Currently working on LogGNN: a graph neural network-based log provenance analysis for threat hunting
 
 &nbsp;
+
 <ins>**Undergraduate Research**</ins>
 
 **Employer:** Khulna University of Engineering and Technology
