@@ -41,12 +41,39 @@ Research Experience
 * Developed ultrasound strain imaging system using dynamic programming and information theory for
 	nonlinear ultrasound RF data and published two conference papers
   
-Skills
+Skills and Expertise
 ======
 * **Programming Languages:** Python, C, C++, CUDA
 * **Search & Analytics Tools:** ELK stack (Elasticsearch, Logstash, Kibana)
 * **Application Software & Packages:** MATLAB, TensorFlow, PyTorch, Wireshark, WLS,
 * **Language:** English (Fluent), Bangla (Native Speaker)
+
+Projects Accomplished
+======
+<ins>**Graduate Projects**</ins>
+**Institution:** The University of Texas at San Antonio 
+
+* **Driver Behavior Analysis Model:** Developed driver behavior modeling tool using deep learning autoencoder
+models with real life driving and driver behavioral data.
+* **Smart and Secured Parking System:** Developed RF based smart parking system with light weight MQTT
+protocol and performed security vulnerability analysis with Wireshark in IoT Security course.
+* **TRN for Video Summarizing:** Implemented multiscale temporal relational reasoning network (TRN) for
+video event detection and summarizing in Deep Learning course.
+* **Cache Performance Simulator in Python:** Designed Cache Performance Simulator in Advanced Computer
+Architecture course in python
+* **Cloud Solution for Medical Emergency:** Proposed and implemented a cloud solution for handling medical
+emergency visits in rural areas through android application. Implemented collective communication system in
+cloud using OpenStack and interfaced with android application in Cloud Computing course.
+
+&nbsp;
+
+<ins>**Undergraduate Projects**</ins>
+**Institution:** Khulna University of Engineering and Technology 
+
+* Designed and implemented land rover robot controlled by mobile commands using DTMF
+* Designed and implemented a microcontroller-based PC remote controller system with RC5 protocol
+* Designed and implemented Line follower robot with mash solving ability
+* Developed FPGA based 64-bit magnitude comparator with BIST facility
 
 Publications
 ======
@@ -54,11 +81,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[//]: # Talks
+[//]: # ======
+[//]: #   <ul>{% for post in site.talks %}
+[//]: #     {% include archive-single-talk-cv.html %}
+[//]: #   {% endfor %}</ul>
   
 Teaching
 ======
@@ -66,6 +93,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
