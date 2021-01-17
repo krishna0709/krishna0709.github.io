@@ -32,7 +32,7 @@ Research Experience
 	for ransomware detection and classification in Springer Nature
 * Currently working on LogGNN: a graph neural network-based log provenance analysis for threat hunting
 
-
+&nbsp;
 
 <ins>**Undergraduate Research**</ins>
 
