@@ -6,7 +6,7 @@ excerpt: 'The cybersecurity research community has focused primarily on the anal
 date: 2019-10-01
 venue: 'Sandia National Lab.(SNL-NM), Albuquerque, NM (United States)'
 paperurl: 'http://krishna0709.github.io/krishnaroy.github.io/files/Host-basedData_2019SandReport.pdf'
-
+---
 The cybersecurity research community has focused primarily on the analysis and automation of intrusion detection systems by examining network traffic behaviors. Expanding on this expertise, advanced cyber defense analysis is turning to host-based data to use in research and development to produce the next generation network defense tools. The ability to perform deep packet inspection of network traffic is increasingly harder with most boundary network traffic moving to HTTPS. Additionally, network data alone does not provide a full picture of end-to-end activity. These are some of the reasons that necessitate looking at other data sources such as host data. We outline our investigation into the processing, formatting, and storing of the data along with the preliminary results from our exploratory data analysis. In writing this report, it is our goal to aid in guiding future research by providing foundational understanding for an area of cybersecurity that is rich with a variety of complex, categorical, and sparse data, with a strong human influence component. Including suggestions for guiding potential directions for future research.
 
 [Download paper here](http://krishna0709.github.io/krishnaroy.github.io/files/Host-basedData_2019SandReport.pdf)
