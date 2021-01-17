@@ -55,8 +55,8 @@ Skills and Expertise
 Projects Accomplished
 ======
 <ins>**Graduate Projects**</ins>
-**Institution:** The University of Texas at San Antonio 
 
+**Institution:** The University of Texas at San Antonio 
 * **Driver Behavior Analysis Model:** Developed driver behavior modeling tool using deep learning autoencoder
 models with real life driving and driver behavioral data.
 * **Smart and Secured Parking System:** Developed RF based smart parking system with light weight MQTT
@@ -72,8 +72,8 @@ cloud using OpenStack and interfaced with android application in Cloud Computing
 &nbsp;
 
 <ins>**Undergraduate Projects**</ins>
-**Institution:** Khulna University of Engineering and Technology 
 
+**Institution:** Khulna University of Engineering and Technology 
 * Designed and implemented land rover robot controlled by mobile commands using DTMF
 * Designed and implemented a microcontroller-based PC remote controller system with RC5 protocol
 * Designed and implemented Line follower robot with mash solving ability
