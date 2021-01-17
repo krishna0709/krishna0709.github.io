@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience 1"
 collection: teaching
-type: "Workshop"
+type: "Graduate Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "The University of Texas at San Antonio, Department of Electrical and Computer Engineering"
+date: 2018-01-01
+location: "San Antonio, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Selected as teaching assistant for Introduction to electrical and Computer engineering undergraduate course
+* Designed and conducted weekly lecture review and lab experiments for 120 students in 4 sections
+* Mentored and evaluated 30 project groups for final project design
 
 Heading 1
 ======

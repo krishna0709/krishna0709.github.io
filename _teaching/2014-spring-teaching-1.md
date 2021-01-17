@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 2"
 collection: teaching
-type: "Undergraduate course"
+type: "Lecturer"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Bangladesh University, Department of Electrical and Electronic Engineering"
+date: 2015-09-01
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Taught four undergraduate courses- Computer Programming Language (C, C++), Digital Signal Processing,
+Microprocessor and System Design, Engineering Electromagnetics in 5 semesters
+* Supervised an undergraduate thesis group of 3 students
 
 Heading 1
 ======
