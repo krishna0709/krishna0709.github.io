@@ -16,7 +16,7 @@ Education
 
 Research Experience
 ======
-**Graduate Research Assistant**
+<ins>**Graduate Research Assistant**</ins>
 
 **Employer:** IoT Security Lab, The University of Texas at San Antonio\
 **Supervisor:** Dr. Guenevere (Qian) Chen, Assistant Professor, Electrical and Computer Engineering
@@ -33,7 +33,8 @@ Research Experience
 * Currently working on LogGNN: a graph neural network-based log provenance analysis for threat hunting
 
 
-**Undergraduate Research**
+
+<ins>**Undergraduate Research**</ins>
 
 **Employer:** Khulna University of Engineering and Technology
 * Studied and surveyed ultrasound imaging systems in biomedical imaging
