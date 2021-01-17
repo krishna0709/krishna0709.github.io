@@ -3,7 +3,7 @@ title: "Teaching experience 2"
 collection: teaching
 type: "Lecturer"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Bangladesh University, Department of Electrical and Electronic Engineering"
+venue: "Department of Electrical and Electronic Engineering, Bangladesh University"
 date: 2015-09-01
 location: "Dhaka, Bangladesh"
 ---
