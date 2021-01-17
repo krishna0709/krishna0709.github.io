@@ -12,11 +12,4 @@ location: "San Antonio, United States"
 * Designed and conducted weekly lecture review and lab experiments for 120 students in 4 sections
 * Mentored and evaluated 30 project groups for final project design
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======

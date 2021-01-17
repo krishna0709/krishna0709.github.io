@@ -12,11 +12,3 @@ location: "Dhaka, Bangladesh"
 Microprocessor and System Design, Engineering Electromagnetics in 5 semesters
 * Supervised an undergraduate thesis group of 3 students
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
