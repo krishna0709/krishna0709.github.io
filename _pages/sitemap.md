@@ -4,22 +4,24 @@ title: "Sitemap"
 permalink: /sitemap/
 author_profile: trie
 ---
+Research
+======
+  <ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-{% include base_path %}
+&nbsp;
 
-A list of all the posts and pages found on the site. 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+&nbsp;
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
