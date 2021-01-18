@@ -17,4 +17,4 @@ A list of all the posts and pages found on the site.
   {% capture written_label %}{{ label }}{% endcapture %}
   {% endif %}
 {% endunless %}
-
+{% endfor %}
