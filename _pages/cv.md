@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV of Krishna Chandra Roy"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+&nbsp;
+
 Education
 ======
 * B.Sc. in Electronics and Communication Engineering, Khulna University of Engineering and Technology, 2014
 * Ph.D in Computer Engineering, The University of Texas at San Antonio, 2022 (expected)
+
+&nbsp;
 
 Research Experience
 ======
