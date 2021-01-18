@@ -6,17 +6,17 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/   
-
   - title: "Publications"
-    url: /publications/    
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
+    url: /publications/ 
+    
+  - title: "Teaching"
+    url: /teaching/      
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Personal"
+    url: /year-archive/
     
 #  - title: "Guide"
 #    url: /markdown/
