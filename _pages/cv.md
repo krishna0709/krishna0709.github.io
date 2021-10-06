@@ -31,16 +31,16 @@ Research Experience
 Cyber Physical System 
 * Conducted driving tests in simulation-based Testbed using OpenDS for 50 college-age drivers (IRB approved) under 20 driving tasks and 12 cyber-attack scenarios.
 * Collected physical and behavioral data of the vehicle (e.g., position, steering angle, reaction time etc.).
-* Proposed Cyber, Physical and Human factor-based framework, ExHPD for driving behavior modeling to detect vehicle cyber-attack using Random Forest and LSTM Autoencoder model. (Published in IEEE Internet of Things Journal)
+* Proposed Cyber, Physical and Human factor-based framework, ExHPD for driving behavior modeling to detect vehicle cyber-attack using Random Forest and LSTM Autoencoder model.
  
 Enterprise Network                 
 * Developed testbed of bare-metal servers for host log (benign/malware) data collection with FOG-project, WLS, Windows ETW and ELK stack.  
 * Collected audit and application log (Windows/Linux) dataset under benign scenario for 90-days and 35-users (IRB approved) in a large enterprise network in collaboration with Sandia National Lab (SNL).
 * Collected malware dataset in controlled environment (Cuckoo sandbox) for more than 150 malware samples (e.g., Adware, Ransomware, Backdoor/Trojan etc.).
 * Indexed collected data (2TB) in Elastic server using Logstash, analyzed and visualized using Kibana for preprocessing (anonymization for privacy) in Python.
-* Designed and implemented DeepRan an attention-based bi-LSTM and CRF model for ransomware early detection and classification with more than 98% accuracy (Published in Springer Journal)
+* Designed and implemented DeepRan an attention-based bi-LSTM and CRF model for ransomware early detection and classification with more than 98% accuracy.
 * Proposed LogGNN a Graph Neural Network (GNN) based graph embedding algorithm for representation learning of heterogeneous Provenance graph constructed from host log and behavioral data. 
-* Developed Cyber-Psychology (Delay Discounting, Risk-Taking) mapping framework for early detection of Insider Threat. (Submitted in USENIX Security Symposium 2022) 
+* Developed Cyber-Psychology (Delay Discounting, Risk-Taking) mapping framework for early detection of Insider Threat. 
 * Currently working on GNN-LSTM based unsupervised malware detection model using provenance graph constructed from collected malware logs for threat hunting in enterprise network.
 
 <ins>**Graduate Research Assistant**</ins> 
