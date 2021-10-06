@@ -12,4 +12,4 @@ permalink: /portfolio/portfolio-1
 *	Mentored and evaluated class project groups for final projects design in each of the classes.  
 
 
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/log_trend.png'>"
+* excerpt: "<img src='/images/log_trend.png'><br>Short description of portfolio item number 1<br/>"
