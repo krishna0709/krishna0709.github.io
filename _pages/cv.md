@@ -44,6 +44,7 @@ Enterprise Network
 * Currently working on GNN-LSTM based unsupervised malware detection model using provenance graph constructed from collected malware logs for threat hunting in enterprise network.
 
 <ins>**Graduate Research Assistant**</ins> 
+
 **Employer:** The University of Texas at San Antonio, United States                                                           
 * Designed differential privacy mechanism for publishing optimized building energy consumption data.
 * Analyzed k-anonymity, Local differential privacy (LDP), Exponential and Laplace mechanism for differential privacy mechanism and.
@@ -67,6 +68,12 @@ Skills and Expertise
 * **Application Software & Packages:** MATLAB, TensorFlow, PyTorch, Wireshark, WLS,
 * **Language:** English (Fluent), Bangla (Native Speaker)
 
+* **AI Algorithms:** ML (SVM, LR, RF), DL (CNN, LSTM, GNN, Autoencoder, GAN), NLP, Transformer
+* **Programming Languages:** Python, C, C++, MATLAB, CUDA
+* **Software & Tools:** ELK stack (Elasticsearch, Logstash, Kibana), WLS, WireShark, TensorFlow, PyTorch, Keras, Weka
+* **Web & Cloud:** Google Colaboratory, Azure Notebooks, IBM Watson Studio
+* **Platforms:** Windows, Linux/Unix, MacOS
+* 
 &nbsp;
 
 Projects Accomplished
