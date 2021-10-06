@@ -10,6 +10,4 @@ permalink: /portfolio/portfolio-1
 *	Graded exams, homework’s and provided office ours for problem solving.
 *	Designed and conducted Lab experiments with MATLAB, NI myDAQ, LabVIEW and basic electrical hardware instruments (Project work).
 *	Mentored and evaluated class project groups for final projects design in each of the classes.  
-
-
-* excerpt: "<img src='/images/log_trend.png'><br>Short description of portfolio item number 1<br/>"
+<img src='/images/log_trend.png'><br>               Short description of portfolio item number 1<br/>"
