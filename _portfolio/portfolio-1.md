@@ -1,7 +1,6 @@
 ---
 collection: portfolio
 type: "Cyber-Psychological Behavior Modeling Using Host Logs in Enterprise Network"
-permalink: /portfolio/portfolio-1
 ---
 
 *	Taught 5 classes of undergraduate students for 4 semesters.
