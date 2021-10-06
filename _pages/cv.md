@@ -32,7 +32,8 @@ Cyber Physical System
 * Conducted driving tests in simulation-based Testbed using OpenDS for 50 college-age drivers (IRB approved) under 20 driving tasks and 12 cyber-attack scenarios.
 * Collected physical and behavioral data of the vehicle (e.g., position, steering angle, reaction time etc.).
 * Proposed Cyber, Physical and Human factor-based framework, ExHPD for driving behavior modeling to detect vehicle cyber-attack using Random Forest and LSTM Autoencoder model.
- 
+
+
 Enterprise Network                 
 * Developed testbed of bare-metal servers for host log (benign/malware) data collection with FOG-project, WLS, Windows ETW and ELK stack.  
 * Collected audit and application log (Windows/Linux) dataset under benign scenario for 90-days and 35-users (IRB approved) in a large enterprise network in collaboration with Sandia National Lab (SNL).
@@ -63,17 +64,12 @@ Enterprise Network
 
 Skills and Expertise
 ======
-* **Programming Languages:** Python, C, C++, CUDA
-* **Search & Analytics Tools:** ELK stack (Elasticsearch, Logstash, Kibana)
-* **Application Software & Packages:** MATLAB, TensorFlow, PyTorch, Wireshark, WLS,
-* **Language:** English (Fluent), Bangla (Native Speaker)
-
 * **AI Algorithms:** ML (SVM, LR, RF), DL (CNN, LSTM, GNN, Autoencoder, GAN), NLP, Transformer
 * **Programming Languages:** Python, C, C++, MATLAB, CUDA
 * **Software & Tools:** ELK stack (Elasticsearch, Logstash, Kibana), WLS, WireShark, TensorFlow, PyTorch, Keras, Weka
 * **Web & Cloud:** Google Colaboratory, Azure Notebooks, IBM Watson Studio
 * **Platforms:** Windows, Linux/Unix, MacOS
-* 
+
 &nbsp;
 
 Projects Accomplished
