@@ -13,8 +13,11 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Electrical Engineering (Concentration: Computer Engineering), The University of Texas at San Antonio, May 2022 (expected)
+* M.S. in Electrical Engineering (Concentration: Computer Engineering), The University of Texas at San Antonio, 2021 
 * B.Sc. in Electronics and Communication Engineering, Khulna University of Engineering and Technology, 2014
-* Ph.D in Computer Engineering, The University of Texas at San Antonio, 2022 (expected)
+            
+
 
 &nbsp;
 
@@ -24,17 +27,27 @@ Research Experience
 
 **Employer:** IoT Security Lab, The University of Texas at San Antonio\
 **Supervisor:** Dr. Guenevere (Qian) Chen, Assistant Professor, Electrical and Computer Engineering
-* Researched on host behavior-based intrusion detection systems
-* Designed and developed deep learning experiments for ransomware detection and classification
-* Collected windows audit and application logs under normal scenario for 90 days for host behavior modeling
-* Collected host logging data from 35 computers running Microsoft Windows 10 OS using Windows Logging
-	Service (WLS)
-* Collected attack dataset in controlled environment FOG server and Cuckoo sandbox for 100 malwares
-* Indexed collected data in Elasticsearch server using Logstash and performed statistical analysis for
-	preprocessing and visualized using Kibana
-* Published a journal on attention based BiLSTM and Conditional Random Field (CRF) deep learning models
-	for ransomware detection and classification in Springer Nature
-* Currently working on LogGNN: a graph neural network-based log provenance analysis for threat hunting
+
+Cyber Physical System 
+* Conducted driving tests in simulation-based Testbed using OpenDS for 50 college-age drivers (IRB approved) under 20 driving tasks and 12 cyber-attack scenarios.
+* Collected physical and behavioral data of the vehicle (e.g., position, steering angle, reaction time etc.).
+* Proposed Cyber, Physical and Human factor-based framework, ExHPD for driving behavior modeling to detect vehicle cyber-attack using Random Forest and LSTM Autoencoder model. (Published in IEEE Internet of Things Journal)
+ 
+Enterprise Network                 
+* Developed testbed of bare-metal servers for host log (benign/malware) data collection with FOG-project, WLS, Windows ETW and ELK stack.  
+* Collected audit and application log (Windows/Linux) dataset under benign scenario for 90-days and 35-users (IRB approved) in a large enterprise network in collaboration with Sandia National Lab (SNL).
+* Collected malware dataset in controlled environment (Cuckoo sandbox) for more than 150 malware samples (e.g., Adware, Ransomware, Backdoor/Trojan etc.).
+* Indexed collected data (2TB) in Elastic server using Logstash, analyzed and visualized using Kibana for preprocessing (anonymization for privacy) in Python.
+* Designed and implemented DeepRan an attention-based bi-LSTM and CRF model for ransomware early detection and classification with more than 98% accuracy (Published in Springer Journal)
+* Proposed LogGNN a Graph Neural Network (GNN) based graph embedding algorithm for representation learning of heterogeneous Provenance graph constructed from host log and behavioral data. 
+* Developed Cyber-Psychology (Delay Discounting, Risk-Taking) mapping framework for early detection of Insider Threat. (Submitted in USENIX Security Symposium 2022) 
+* Currently working on GNN-LSTM based unsupervised malware detection model using provenance graph constructed from collected malware logs for threat hunting in enterprise network.
+
+<ins>**Graduate Research Assistant**</ins> 
+**Employer:** The University of Texas at San Antonio, United States                                                           
+* Designed differential privacy mechanism for publishing optimized building energy consumption data.
+* Analyzed k-anonymity, Local differential privacy (LDP), Exponential and Laplace mechanism for differential privacy mechanism and.
+* Analyzed differential privacy mechanisms for social graphs using Facebook data from SNAP 
 
 &nbsp;
 
