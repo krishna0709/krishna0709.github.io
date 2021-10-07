@@ -1,4 +1,5 @@
 ---
+title: "Cyber-Psychological Behavior Modeling Using Host Logs in Enterprise Network"
 type: "Cyber-Psychological Behavior Modeling Using Host Logs in Enterprise Network"
 collection: portfolio
 ---
