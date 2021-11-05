@@ -311,4 +311,6 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-dinky
+#theme: jekyll-theme-dinky
+theme: minima
+remote_theme: benbalter/retlab
