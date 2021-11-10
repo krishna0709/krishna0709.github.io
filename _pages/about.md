@@ -25,8 +25,9 @@ I am an enthusiastic researcher motivated to work in a challenging environment t
 
 ## News/Updates
 
-*	March 2021: Our manuscript [ExHPD: Exploiting Human, Physical and Driving Behaviors to Detect Vehicle Cyber Attacks](https://ieeexplore.ieee.org/document/9392004) has been accepted for publication in the [IEEE Internet of Things Journal - IF: 9.93](https://ieee-iotj.org/).
-*	May 2020: Our manuscript [DeepRan: Attention-based BiLSTM and CRF for Ransomware Early Detection and Classification](https://link.springer.com/article/10.1007/s10796-020-10017-4) has been accepted for publication in the [Information Systems Frontiers Journal - IF: 6.19](https://www.springer.com/journal/10796).
+*	March 2021: Our manuscript [ExHPD: Exploiting Human, Physical and Driving Behaviors to Detect Vehicle Cyber Attacks](https://ieeexplore.ieee.org/document/9392004) has been accepted for publication in the [IEEE Internet of Things Journal](https://ieee-iotj.org/) - IF: 9.93.
+*	May 2020: Our manuscript [DeepRan: Attention-based BiLSTM and CRF for Ransomware Early Detection and Classification](https://link.springer.com/article/10.1007/s10796-020-10017-4) has been accepted for publication in the [Information Systems Frontiers Journal](https://www.springer.com/journal/10796) - IF: 6.19.
+*	October 2019: Collaborative manuscript [Detailed Statistical Models of Host-Based Data for Detection of Malicious Activity](https://www.osti.gov/servlets/purl/1570095) with Sandia national Lab (SNL) published by U.S. Department of Energy (DOE).
 
 
 
