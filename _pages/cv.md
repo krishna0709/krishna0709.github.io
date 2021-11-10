@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV of Krishna Chandra Roy"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,10 @@ redirect_from:
 
 &nbsp;
 
-Education
-======
+
 * Ph.D in Electrical Engineering (Concentration: Computer Engineering), The University of Texas at San Antonio, May 2022 (expected)
-* M.S. in Electrical Engineering (Concentration: Computer Engineering), The University of Texas at San Antonio, 2021 
-* B.Sc. in Electronics and Communication Engineering, Khulna University of Engineering and Technology, 2014
+* M.S. in Electrical Engineering (Concentration: Computer Engineering), The University of Texas at San Antonio, December 2021 
+* B.Sc. in Electronics and Communication Engineering, Khulna University of Engineering and Technology, September 2014
             
 
 
