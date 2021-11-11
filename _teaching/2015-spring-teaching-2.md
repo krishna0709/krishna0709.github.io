@@ -16,4 +16,7 @@ location: "Texas, United States"
   ### Summer 2021
     * EE 2323 Applied Engineering Analysis
     * EE 3413 Analysis and Design of Control System
+    
+    
+-----------------------------------------------------------------------------------------------
 
