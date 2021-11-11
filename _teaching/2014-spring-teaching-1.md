@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Teaching"
+title: " "
 collection: teaching
 type: "Lecturer"
 permalink: /teaching/2014-spring-teaching-1
