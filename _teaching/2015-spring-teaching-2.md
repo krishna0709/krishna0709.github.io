@@ -17,5 +17,5 @@ location: "Texas, United States"
     * EE 2323 Applied Engineering Analysis
     * EE 3413 Analysis and Design of Control System
     
-=========
+---------------------------------------------
 
