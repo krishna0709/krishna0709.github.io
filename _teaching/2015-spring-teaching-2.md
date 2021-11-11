@@ -7,13 +7,13 @@ venue: "Department of Electrical and Computer Engineering, The University of Tex
 date: 2018-01-01
 location: "Texas, United States"
 ---
-### Spring 2018
-* EE 1322 Introduction to electrical and Computer engineering
-### Fall 2018
-* EE 1322 Introduction to electrical and Computer engineering
-### Spring 2019
-* EE 1322 Introduction to electrical and Computer engineering
-### Summer 2021
-* EE 2323 Applied Engineering Analysis
-* EE 3413 Analysis and Design of Control System
+  ### Spring 2018
+    * EE 1322 Introduction to electrical and Computer engineering
+  ### Fall 2018
+    * EE 1322 Introduction to electrical and Computer engineering
+  ### Spring 2019
+    * EE 1322 Introduction to electrical and Computer engineering
+  ### Summer 2021
+    * EE 2323 Applied Engineering Analysis
+    * EE 3413 Analysis and Design of Control System
 
