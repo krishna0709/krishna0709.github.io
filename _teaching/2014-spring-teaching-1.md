@@ -8,20 +8,20 @@ date: 2015-09-01
 location: "Dhaka, Bangladesh"
 ---
 
-### Fall 2015
-1. EEE 211 Introduction to Computer Programming (C, C++)
-2. EEE 313 Engineering Electromagnetics
-3. Phy 1102 Applied Physics
+#### 1. Fall 2015
+* EEE 211 Introduction to Computer Programming (C, C++)
+* EEE 313 Engineering Electromagnetics
+* Phy 1102 Applied Physics
 
-### Spring 2016
-1. EEE 328 Digital Signal Processing
-2. EEE 214 Electronics I
-3. EEE 229 Electrical Service Design
+Spring 2016
+* EEE 328 Digital Signal Processing
+* EEE 214 Electronics I
+* EEE 229 Electrical Service Design
 
-### Fall 2016
-1. EEE 211 Introduction to Computer Programming (C, C++)
-2. EEE 313 Microprocessor and System Design
-3. EEE 314 Microprocessor and System Design Lab
+#### 1. Fall 2016
+* EEE 211 Introduction to Computer Programming (C, C++)
+* EEE 313 Microprocessor and System Design
+* EEE 314 Microprocessor and System Design Lab
 
 ### Spring 2017
 1. EEE 328 Digital Signal Processing
