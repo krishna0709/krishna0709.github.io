@@ -7,5 +7,3 @@ date: 2016-07-01
 venue: 'Optical Engineering'
 paperurl: 'http://krishna0709.github.io/files/singlemode2016.pdf'
 ---
-
-[Download paper here](http://krishna0709.github.io/files/singlemode2016.pdf)
