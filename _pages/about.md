@@ -26,9 +26,9 @@ I am an enthusiastic researcher motivated to work in a challenging environment t
 ### News/Updates
 
 *	<b>November 2021:</b> Participating in 2021 CyberForce Competition as Blue Team, by U.S Department of Energy (DOE) and Argonne Nation Lab (ANL) 
-* <b>August 2021: Received College of Engineering (COE) Doctoral Scholarship from The University of Texas at San Antonio
+* <b>August 2021:</b> Received College of Engineering (COE) Doctoral Scholarship from The University of Texas at San Antonio
 *	<b>May 2021:</b> Ranked in <b>top 20</b> (out of 330) in CONQUER THE HILL: Adventure Edition, Cyberforce competition by U.S Department of Energy (DOE)
-*	<b>May 2021:</b> Selected as <b>finalists</b> in Mad Hack: Fury Code 2021, organized by NSIN, Department of Defense (DOD)
+*	<b>May 2021:</b> Selected as <b>Finalists</b> in Mad Hack: Fury Code 2021, organized by NSIN, Department of Defense (DOD)
 *	<b>March 2021:</b> Our manuscript [ExHPD: Exploiting Human, Physical and Driving Behaviors to Detect Vehicle Cyber Attacks](https://ieeexplore.ieee.org/document/9392004) has been accepted for publication in the [IEEE Internet of Things Journal](https://ieee-iotj.org/) - IF: 9.93.
 *	<b>May 2020:</b> Our manuscript [DeepRan: Attention-based BiLSTM and CRF for Ransomware Early Detection and Classification](https://link.springer.com/article/10.1007/s10796-020-10017-4) has been accepted for publication in the [Information Systems Frontiers Journal](https://www.springer.com/journal/10796) - IF: 6.19.
 *	<b>October 2019:</b> Collaborative manuscript [Detailed Statistical Models of Host-Based Data for Detection of Malicious Activity](https://www.osti.gov/servlets/purl/1570095) with Sandia national Lab (SNL) published by U.S. Department of Energy (DOE).
