@@ -26,7 +26,7 @@ I am an enthusiastic researcher motivated to work in a challenging environment t
 
 ### News/Updates
 -----------------------------------------
-*	<b>November 2021:</b> Participating in 2021 CyberForce Competition as Blue Team, by U.S Department of Energy (DOE) and Argonne Nation Lab (ANL) 
+*	<b>November 2021:</b> Participating in 2021 CyberForce Competition as Blue Team, by U.S Department of Energy (DOE) and Argonne National Lab (ANL) 
 * <b>August 2021:</b> Received College of Engineering (COE) Doctoral Scholarship from The University of Texas at San Antonio
 *	<b>May 2021:</b> Ranked in <b>top 20</b> (out of 330) in CONQUER THE HILL: Adventure Edition, Cyberforce competition by U.S Department of Energy (DOE)
 *	<b>May 2021:</b> Selected as <b>Finalists</b> in Mad Hack: Fury Code 2021, organized by NSIN, Department of Defense (DOD)
