@@ -26,6 +26,7 @@ I am an enthusiastic researcher motivated to work in a challenging environment t
 
 ### News/Updates
 -----------------------------------------
+*	<b>July 2022:</b> Defended PhD dissertation on <b>Towards Modeling Host-based Data for Cyber-Psychological Assessment in Cyber Threat Detection</b>.
 *	<b>April 2022:</b> Awarded 1st place in the research award competition provided by UTSA Cyber Center For Security and Analytics.[Here](https://twitter.com/utsacybercenter/status/1509529216852836356?s=20&t=yUdsgV1Kiag2y5Np6ICFVA)
 *	<b>November 2021:</b> Participating in 2021 CyberForce Competition as Blue Team, by U.S Department of Energy (DOE) and Argonne National Lab (ANL) 
 * <b>August 2021:</b> Received College of Engineering (COE) Doctoral Scholarship from The University of Texas at San Antonio
