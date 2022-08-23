@@ -12,7 +12,7 @@ redirect_from:
 &nbsp;
 
 
-* Ph.D in Electrical Engineering (Concentration: Computer Engineering), The University of Texas at San Antonio, May 2022 (expected)
+* Ph.D in Electrical Engineering (Concentration: Computer Engineering), The University of Texas at San Antonio, August 2022
 * M.S. in Electrical Engineering (Concentration: Computer Engineering), The University of Texas at San Antonio, December 2021 
 * B.Sc. in Electronics and Communication Engineering, Khulna University of Engineering and Technology, September 2014
             
