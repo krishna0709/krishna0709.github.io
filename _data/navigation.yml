@@ -2,21 +2,23 @@
 main:
   - title: "Education"
     url: /cv/
+  
+  - title: "Teaching"
+    url: /teaching/   
     
   - title: "Research"
     url: /portfolio/ 
+    
+  - title: "Projects"
+    url: /talks/      
 
   - title: "Publications"
     url: /publications/ 
-    
-  - title: "Projects"
-    url: /talks/   
 
-  - title: "Teaching"
-    url: /teaching/      
+  - title: "Prospective Students"
+    url: /markdown/
     
   - title: "Miscellany"
     url: /year-archive/
     
-#  - title: "Guide"
-#    url: /markdown/
+
