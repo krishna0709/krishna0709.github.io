@@ -7,27 +7,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in the department of [Electrical and Computer Engineering](https://ceid.utsa.edu/electrical-computer/) at the [University of Texas at San Antonio (UTSA)](http://www.utsa.edu/). Currently, I am working as a graduate research assistant (GRA) in the [IoT Security Lab](https://ceid.utsa.edu/iotsecuritylab/), UTSA under the supervision of Dr. Qian Chen for around 3 years. My major research concentration is in the area of Artificial Intelligence (AI) and Cybersecurity. I am designing novel AI models leveraging machine learning and deep learning algorithms for developing next generation cyber defense tools to protect the enterprise networks as well as cyber physical systems (CPS).
+I am an Assistant Professor in the department of [Electrical Engineering](https://www.nmt.edu/academics/eleceng/) at [New Mexico Tech](https://www.nmt.edu/). I have completed my M.S. and Ph.D. in Electrical Engineering from the University of Texas at San Antonio (UTSA), USA in 2021 and 2022 respectively. Before joining UTSA, I received B.Sc. degree in Electronics and Communication Engineering from Khulna University of Engineering and Technology, Bangladesh in 2014. 
 
-I am an enthusiastic researcher motivated to work in a challenging environment to bring team success through hard work, R&D skills, and creative thoughts. Find my updated [CV](http://krishna0709.github.io/files/CV_Krishna_Roy.pdf)/[Resume](http://krishna0709.github.io/files/Resume_Krishna_Roy.pdf).
+My research interest focuses on human factors and their impacts on cybersecurity, cyber-psychological assessment in cyber threat detection, and intelligent transportation system security. My research interest also includes AI security, computer vision, micro-expression analysis and intelligent sound synthesis. 
 
 ## Research Areas/Interests
 
-*	Developing AI Models (Machine Learning/ Deep Learning) 
-*	Data Analytics
-*	AI in Cyber Security Applications
-*	Cyber Threat Hunting
-*	Insider Threat Analysis and Detection
-*	Human Factor based Behavioral Abstraction and Modeling
-*	Driver and Driving Behavior Analysis for Vehicle Cyber Attack Detection
-*	Security of Autonomous Vehicles 
+* Machine Learning/ Deep Learning
+* AI in Cyber Security
+* Human Factor based Behavioral Abstraction and Modeling
+* Insider Threat Analysis and Detection
+* Driver and Driving Behavior Analysis for Vehicle Cyber Attack Detection
+* Security of Autonomous Vehicles
+* Intelligent Sound Synthesis
 
+Find my updated [CV](http://krishna0709.github.io/files/CV_Krishna_Roy.pdf)/[Resume](http://krishna0709.github.io/files/Resume_Krishna_Roy.pdf).
 
 
 ### News/Updates
 -----------------------------------------
+*	<b>August 2022:</b> Joined New Mexico Tech as an Assistant Professor in the department of Electrical Engineering</b>.
 *	<b>July 2022:</b> Defended PhD dissertation on <b>Towards Modeling Host-based Data for Cyber-Psychological Assessment in Cyber Threat Detection</b>.
-*	<b>April 2022:</b> Awarded 1st place in the research award competition provided by UTSA Cyber Center For Security and Analytics.[Here](https://twitter.com/utsacybercenter/status/1509529216852836356?s=20&t=yUdsgV1Kiag2y5Np6ICFVA)
+*	<b>April 2022:</b> Awarded 1st place in the research award competition provided by UTSA Cyber Center For Security and Analytics.[Details Here](https://twitter.com/utsacybercenter/status/1509529216852836356?s=20&t=yUdsgV1Kiag2y5Np6ICFVA)
 *	<b>November 2021:</b> Participating in 2021 CyberForce Competition as Blue Team, by U.S Department of Energy (DOE) and Argonne National Lab (ANL) 
 * <b>August 2021:</b> Received College of Engineering (COE) Doctoral Scholarship from The University of Texas at San Antonio
 *	<b>May 2021:</b> Ranked in <b>top 20</b> (out of 330) in CONQUER THE HILL: Adventure Edition, Cyberforce competition by U.S Department of Energy (DOE)
