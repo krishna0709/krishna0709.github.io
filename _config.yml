@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Krishna Chandra Roy"
+  name             : "Krishna Chandra Roy, PhD"
   avatar           : "PXL_20220707_210058133.PORTRAIT(1).jpg"
-  bio              : "Graduate Research Assistant"
-  lab              : "Affiliation: IoT Security Lab"
-  employer         : "The University of Texas at San Antonio"
-  location         : "1 UTSA Circle, San Antonio, TX 78249"
+  bio              : "Assistant Professor"
+  lab              : "Department of Electrical Engineering"
+  employer         : "New Mexico Tech"
+  location         : "801 Leroy Place, Socorro, NM 87801"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=plzpph0AAAAJ&hl=en"
-  email            : "krishna.roy@my.utsa.edu"
+  email            : "krishna.roy@nmt.edu"
   researchgate     : "https://www.researchgate.net/profile/Krishna_Roy9"
   uri              :
   bitbucket        :
