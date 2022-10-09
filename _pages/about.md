@@ -21,7 +21,7 @@ My research interest focuses on human factors and their impacts on cybersecurity
 * Security of Autonomous Vehicles
 * Intelligent Sound Synthesis
 
-Find my updated [CV](http://krishna0709.github.io/files/CV_Krishna_Roy.pdf)/[Resume](http://krishna0709.github.io/files/Resume_Krishna_Roy.pdf).
+Find my updated [CV](http://krishna0709.github.io/files/CV_Krishna_Roy.pdf).
 
 
 ### News/Updates
