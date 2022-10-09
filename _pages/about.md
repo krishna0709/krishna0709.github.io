@@ -26,7 +26,7 @@ Find my updated [CV](http://krishna0709.github.io/files/CV_Krishna_Roy.pdf)/[Res
 
 ### News/Updates
 -----------------------------------------
-*	<b>August 2022:</b> Joined New Mexico Tech as an Assistant Professor in the department of Electrical Engineering</b>.
+*	<b>August 2022:</b> Joined New Mexico Tech as an Assistant Professor in the department of Electrical Engineering.
 *	<b>July 2022:</b> Defended PhD dissertation on <b>Towards Modeling Host-based Data for Cyber-Psychological Assessment in Cyber Threat Detection</b>.
 *	<b>April 2022:</b> Awarded 1st place in the research award competition provided by UTSA Cyber Center For Security and Analytics.[Details Here](https://twitter.com/utsacybercenter/status/1509529216852836356?s=20&t=yUdsgV1Kiag2y5Np6ICFVA)
 *	<b>November 2021:</b> Participating in 2021 CyberForce Competition as Blue Team, by U.S Department of Energy (DOE) and Argonne National Lab (ANL) 
