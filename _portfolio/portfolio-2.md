@@ -1,7 +1,7 @@
 ---
 title: "Cyber-Psychological Behavior Modeling Using Host Logs in Enterprise Network"
 collection: portfolio
-type: "Cyber-Psychological Behavior Modeling Using Host Logs in Enterprise Network"
+type: "Human Factor: Cyber-Psychological Behavior Modeling Using Host Data"
 permalink: /portfolio/portfolio-1
 ---
 
