@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Dr. Krishna Roy"
 author_profile: true
 redirect_from: 
   - /about/
