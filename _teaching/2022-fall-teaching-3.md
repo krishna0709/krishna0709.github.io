@@ -1,5 +1,5 @@
 ---
-title: "Assistant Professor"
+title: "Instructor"
 collection: teaching
 permalink: /teaching/2022-fall-teaching-3
 venue: "Department of Electrical Engineering, New Mexico Tech"
