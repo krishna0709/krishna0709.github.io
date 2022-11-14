@@ -313,4 +313,4 @@ compress_html:
 
 #theme: jekyll-theme-dinky
 theme: minima
-#remote_theme: benbalter/retlab
+remote_theme: benbalter/retlab
