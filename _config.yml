@@ -312,5 +312,5 @@ compress_html:
     envs: development
 
 #theme: jekyll-theme-dinky
-theme: Modernist
+#theme: Modernist
 remote_theme: benbalter/retlab
