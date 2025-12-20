@@ -23,7 +23,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign teaching_pages = site.teaching | sort: "date" | reverse %}
+{% assign teaching_pages = site.teaching reversed %}
 {% for post in teaching_pages %}
   <section class="archive__item">
     <h2 class="archive__item-title">
