@@ -1,4 +1,4 @@
-<!---
+
 ---
 layout: archive
 title: "Teaching"
@@ -6,6 +6,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<!---
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
@@ -14,30 +15,11 @@ author_profile: true
 
 -->
 
----
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
----
-
-{% include base_path %}
-
-{% assign teaching_pages = site.teaching reversed %}
+{% assign teaching_pages = site.teaching | reverse %}
 {% for post in teaching_pages %}
-  <section class="archive__item">
-    <h2 class="archive__item-title">
-      <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
-
-    {% if post.venue %}
-      <p><i>{{ post.venue }}</i></p>
-    {% endif %}
-
-    <div class="archive__item-excerpt">
-      {{ post.content }}
-    </div>
-
-    <hr>
-  </section>
+  <h2>{{ post.venue | default: post.title }}</h2>
+  {{ post.content }}
+  <hr>
 {% endfor %}
+
+
