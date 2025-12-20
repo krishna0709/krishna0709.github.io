@@ -7,7 +7,11 @@ date: 2022-05-08
 location: "New Mexico, United States"
 ---
 ### Fall 2022
-* EE 311 Signals and Linear Systems
+* EE 3011 Signals and Linear Systems
+
+
+### Fall 2025
+* EE 3053 Analog Electronics
     
 
 
