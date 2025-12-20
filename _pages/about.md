@@ -9,19 +9,25 @@ redirect_from:
 ---
 I am an Assistant Professor in the department of [Electrical Engineering](https://www.nmt.edu/academics/eleceng/) at [New Mexico Tech](https://www.nmt.edu/). I have completed my M.S. and Ph.D. in Electrical Engineering from the University of Texas at San Antonio (UTSA), USA in 2021 and 2022 respectively. Before joining UTSA, I received B.Sc. degree in Electronics and Communication Engineering from Khulna University of Engineering and Technology, Bangladesh in 2014. 
 
+<!--
 My research interest focuses on human factors and their impacts on cybersecurity, cyber-psychological assessment in cyber threat detection, and intelligent transportation system security. My research interest also includes AI security, computer vision, micro-expression analysis and intelligent sound synthesis. 
+-->
 
-## Research Areas/Interests
+## Research Areas
+*	Machine Learning/ Deep Learning
+*	Multimodal Computer Vision
+*	Neuromorphic Computing
+*	AI-enabled Cybersecurity 
+*	Secure and Trustworthy CPS Systems
+*	Safety and Security of Intelligent Transportation Systems
+*	Human Factor based Behavioral Abstraction and Modeling
+*	Audio-Visual Perception Analysis
+*	AI-Security 
 
-* Machine Learning/ Deep Learning
-* AI in Cyber Security
-* Human Factor based Behavioral Abstraction and Modeling
-* Insider Threat Analysis and Detection
-* Driver and Driving Behavior Analysis for Vehicle Cyber Attack Detection
-* Security of Autonomous Vehicles
-* Intelligent Sound Synthesis
 
-Find my updated [CV](http://krishna0709.github.io/files/CV_Krishna_Roy.pdf).
+<!--
+ Find my updated [CV](http://krishna0709.github.io/files/CV_Krishna_Roy.pdf). 
+-->
 
 
 ### News/Updates
