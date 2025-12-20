@@ -15,11 +15,6 @@ author_profile: true
 
 -->
 
-{% assign teaching_pages = site.teaching | reverse %}
-{% for post in teaching_pages %}
-  <h2>{{ post.venue | default: post.title }}</h2>
-  {{ post.content }}
-  <hr>
+{% for post in site.teaching reversed %}
+  {% include archive-all.html post=post show_full=true disable_link=true %}
 {% endfor %}
-
-
