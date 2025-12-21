@@ -2,7 +2,7 @@
 title: "Lecturer"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
-venue: "Department of Electrical and Electronic Engineering, Bangladesh University"
+venue: "Bangladesh University, Department of Electrical and Electronic Engineering"
 date: 2015-09-01
 location: "Dhaka, Bangladesh"
 ---

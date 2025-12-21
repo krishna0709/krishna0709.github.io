@@ -2,7 +2,7 @@
 title: "Graduate Teaching Assistant"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
-venue: "Department of Electrical and Computer Engineering, The University of Texas at San Antonio"
+venue: "The University of Texas at San Antonio, Department of Electrical and Computer Engineering"
 date: 2018-01-01
 location: "Texas, United States"
 ---
