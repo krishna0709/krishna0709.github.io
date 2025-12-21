@@ -13,9 +13,7 @@ redirect_from:
 ## Undergraduate Students
   * Marcus Strenhagen
   * Jessica Hunter
-  * Medison Meja
-  * Diego Sanchez
-  * Jett Martin
+ 
 
 ## Past Students
  * Jorge Quiroga
