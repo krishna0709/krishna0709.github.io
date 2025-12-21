@@ -7,14 +7,14 @@ redirect_from:
   - /stdent/
   - /student.html
 ---
-* Graduate Students
-  ** Md. Mahbub Hasan
+## Graduate Students
+  * Md. Mahbub Hasan
 
-* Undergraduate Students
-  ** Marcus Strenhagen
-  ** Jessica Hunter
-  ** Medison Meja
-  ** Diego Sanchez
-  ** Jett Martin
+## Undergraduate Students
+  * Marcus Strenhagen
+  * Jessica Hunter
+  * Medison Meja
+  * Diego Sanchez
+  * Jett Martin
 
 
