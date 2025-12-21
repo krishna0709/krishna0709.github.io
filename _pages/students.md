@@ -1,10 +1,20 @@
 ---
 permalink: /students/
-title: "Prospective Students"
-excerpt: "Prospective Students"
+title: "Team"
+excerpt: "Team"
 author_profile: true
 redirect_from: 
   - /stdent/
   - /student.html
 ---
-Announcement comming soon...
+* Graduate Students
+  ** Md. Mahbub Hasan
+
+* Undergraduate Students
+  ** Marcus Strenhagen
+  ** Jessica Hunter
+  ** Medison Meja
+  ** Diego Sanchez
+  ** Jett Martin
+
+
