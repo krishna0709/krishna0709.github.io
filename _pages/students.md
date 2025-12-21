@@ -8,7 +8,7 @@ redirect_from:
   - /student.html
 ---
 ## Graduate Students
-  * Md. Mahbub Hasan
+  * Md. Mahbub Hasan (PhD Student)
 
 ## Undergraduate Students
   * Marcus Strenhagen
@@ -16,5 +16,10 @@ redirect_from:
   * Medison Meja
   * Diego Sanchez
   * Jett Martin
+
+## Past Students
+ * Jorge Quiroga
+ * Harrison Chase
+ * Nikolas Paumier
 
 
