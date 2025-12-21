@@ -7,6 +7,7 @@ date: 2022-05-08
 location: "New Mexico, United States"
 ---
 
+<!-- 
 ### Spring 2026
 * CYBS/CSE 5054 Computer Network Security
 * EE 4072 Digital Signal Processing
@@ -15,6 +16,8 @@ location: "New Mexico, United States"
 ### Fall 2025
 * EE 3053 Analog Electronics
 * ES 3032 Electrical Engineering
+
+-->
 
 ### Spring 2025
 * EE 5070 AI in Engineering
